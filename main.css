@@ -1,0 +1,42 @@
+#nav {
+  width: 100vw;
+  height: 10vh;
+  background-color: blue;
+  position: fixed;
+}
+
+#landing {
+  width: 100vw;
+  height: 100vh;
+  background-color: red;
+}
+
+#training {
+  width: 100vw;
+  height: 100vh;
+  background-color: yellow;
+}
+
+#other-services{
+  width: 100vw;
+  height: 100vh;
+  background-color: purple;
+}
+
+#about {
+  width: 100vw;
+  height: 100vh;
+  background-color: pink;
+}
+
+#collar {
+  width: 100vw;
+  height: 10vh;
+  background-color: green;
+}
+
+#contact {
+  width: 100vw;
+  height: 90vh;
+  background-color: orange;
+}
