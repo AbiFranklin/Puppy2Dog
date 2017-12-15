@@ -39,23 +39,23 @@ p {
   color: white;
   }
 
-#sub-nav {
-  margin-top: 8vh;
-  width: 96vw;
-  height: 3vh;
-  padding-right: 4vw;
-  color: white;
-  font-family: 'Josefin Slab', serif;
-  font-size: 20pt;
-  text-align: right;
-  position: fixed;
-  background-color: black;
-}
+
 
 #landing {
   width: 100vw;
-  height: 100vh;
-  background-color: red;
+  height: 89vh;
+  background-image: url(img/puppy2dogv1.png);
+  background-size: 80vw;
+  background-repeat: no-repeat;
+  background-position: center;
+  font-family: 'Chunkfive', serif;
+  font-size: 6vw;
+  color: black;
+  padding-top: 11vh;
+  clear: both;
+  text-align: center;
+  line-height: 160vh;
+
 }
 
 #training {
